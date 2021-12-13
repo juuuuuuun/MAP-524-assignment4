@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Creative Cloud Files/tutor/s5/map524/assignment4/CovidApp/app/src/main/res/layout/activity_country_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Creative Cloud Files/tutor/s5/map524/assignment4/CovidApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/drawable/country_saved_selector.xml" value="0.21927083333333333" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/drawable/country_saved_selector2.xml" value="0.2015625" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/drawable/line_divider.xml" value="0.21145833333333333" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/drawable/progress.xml" value="0.37916666666666665" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/layout/activity_country_detail.xml" value="0.109375" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/layout/activity_covid_country_detail.xml" value="0.1953125" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/layout/fragment_country.xml" value="0.10144927536231885" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/layout/fragment_favorites.xml" value="0.109375" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/layout/fragment_home.xml" value="0.10144927536231885" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/layout/item_list_country.xml" value="0.109375" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/layout/item_list_covid_country.xml" value="0.7135549872122762" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16145833333333334" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/menu/country_menu.xml" value="0.109375" />
+        <entry key="..\:/new/s5/map524/CovidApp/app/src/main/res/menu/search_menu.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
